@@ -119,5 +119,3 @@ game.Players.PlayerAdded:Connect(function(v)
 end)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Raw%20Main.lua"))()
-
-print("DONE ENJOY EXPLOITING")
